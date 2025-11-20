@@ -1,10 +1,10 @@
-input.onGesture(Gesture.LogoUp, function () {
-    basic.showString("WHAT THE CACA!!!")
-    basic.showLeds(`
-        . . . . .
-        . # . # .
-        . . . . .
-        . # # # .
-        . . . . .
-        `)
+input.onGesture(Gesture.LogoDown, function () {
+    basic.showString("Chau dude")
+    basic.showString("" + (images.createBigImage(`
+        # . # . # . # . # .
+        . # . # . # . # . #
+        # . # . # . # . # .
+        . # . # . # . # . #
+        # . # . # . # . # .
+        `)))
 })
