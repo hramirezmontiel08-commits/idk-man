@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_gesture_event" id="U1Yfz@5H}hm7ioD9wv[z" x="0" y="0"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_print_message" id="9=14=TNNjCP#PKq0NBJ="><value name="text"><shadow type="text" id="^|KY01%7cl~*XtQM}FB7"><field name="TEXT">WHAT THE CACA!!!</field></shadow></value><next><block type="device_show_leds" id="r[o.{~DLa2i`=XuFKZ3x"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement></block></xml>
